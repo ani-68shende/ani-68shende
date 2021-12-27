@@ -1,4 +1,4 @@
-<h1 bgcolor="cyan" align="center">Hi 👋, I'm Aniruddha Shende</h1>
+<h1 align="center">Hi 👋, I'm Aniruddha Shende</h1>
 <h3 align="center">Looking for new opportunites and exploring open source</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ani-68shende&label=Profile%20views&color=0e75b6&style=flat" alt="ani-68shende" /> </p>
